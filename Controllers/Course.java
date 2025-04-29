@@ -5,10 +5,12 @@ import java.time.LocalDate;
 
 public abstract class Course{
     String course_name;
+    String course_instructor;
     String course_grade;
     List <Assignment> myAssignment;
-    Course(String name){
+    Course(String name, String instructor){
         this.course_name = name;
+        this.course_instructor = instructor;
         this.myAssignment = new ArrayList<>();
     }
     abstract void set_name(String name);
@@ -38,6 +40,7 @@ public abstract class Course{
     class Assignment{
          String assign_name;
          String assign_grade;
+         String assign_status="pending";
          LocalDate assign_date;
          LocalDate assign_due;
          LocalDate assign_submit;
@@ -48,11 +51,25 @@ public abstract class Course{
              this.assign_date  = date;
              this.assign_due  = due;
          }
-         abstract void set_name ();
-         abstract void set_grade ();
-         abstract void setAssign_date();
-         abstract void set_due();
+         void set_name (String name){
+             this.assign_name = name;
+         }
+         void set_grade (String grade){
+             this.assign_grade = grade;
+         };
+         void set_Assign_date(LocalDate date){
+             assign_date = date;
+         };
+         void set_due(LocalDate due){
+             assign_due = due;
+         };
 
+         void set_Assign_submit(){
+             assign_submit = LocalDate.now();
+         }
+         void assignment_submission(){
+             assign_status="subitted";
+         }
     }
 
 }

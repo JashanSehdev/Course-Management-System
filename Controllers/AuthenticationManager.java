@@ -8,7 +8,13 @@ public class AuthenticationManager{
         users = new ArrayList<>();
     }
 
-    public void register(String username,String password, String role){
+    public void show_all_user(){
+        for (User u : users){
+            System.out.println(u.username+" "+u.role);
+        }
+    }
+
+    public void register(String username,String password, String role,Course_Manager manager){
 
         for(User user : users){
             if(user.username.equalsIgnoreCase(username)){
@@ -20,10 +26,10 @@ public class AuthenticationManager{
 
 
         if (role.equalsIgnoreCase("Student")){
-            users.add(new Student(username,password));
+            users.add(new Student(username,password,manager)); // I think there are requirement to add course manager
         }
         else if(role.equalsIgnoreCase("Instructor")){
-            users.add(new Instructor(username,password));
+            users.add(new Instructor(username,password,manager));
         }
         else {
             System.out.println("Invalid role");

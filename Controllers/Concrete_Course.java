@@ -1,8 +1,8 @@
 package Controllers;
 
 public class Concrete_Course extends Course{
-    Concrete_Course(String name){
-        super(name);
+    public Concrete_Course(String name,String instructor){
+        super(name,instructor);
     }
 
     @Override

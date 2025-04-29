@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80a97919-857b-47ed-9e07-e9ee547b6c5d" name="Changes" comment="" />
+    <list default="true" id="80a97919-857b-47ed-9e07-e9ee547b6c5d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/AuthenticationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/AuthenticationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/Concrete_Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/Concrete_Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/.idea/Course Management System.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/Controllers/AuthenticationManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/Controllers/Course$Assignment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/Controllers/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/Controllers/Instructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/Controllers/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/Controllers/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/main.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +37,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -25,14 +48,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Projects/Course Management System"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/git CMS&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,5 +70,26 @@
       <updated>1745786166249</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
