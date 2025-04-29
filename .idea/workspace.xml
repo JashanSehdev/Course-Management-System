@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80a97919-857b-47ed-9e07-e9ee547b6c5d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controllers/AuthenticationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/AuthenticationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controllers/Concrete_Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/Concrete_Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controllers/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controllers/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/Instructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controllers/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controllers/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/.idea/Course Management System.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/Controllers/AuthenticationManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/Controllers/Course$Assignment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/Controllers/Course.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/Controllers/Instructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/Controllers/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/Controllers/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Course Management System/main.class" beforeDir="false" />
-    </list>
+    <list default="true" id="80a97919-857b-47ed-9e07-e9ee547b6c5d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
